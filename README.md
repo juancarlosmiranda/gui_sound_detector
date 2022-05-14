@@ -5,8 +5,7 @@ Sometimes people would send WhatsApp audios to joke around, like moans for examp
 This app tries to classify moan sounds using the hmm algorithm, but the framework could be useful for other tasks.
 The sound dataset used here was created from Whatsapp audios collected from groups, I believe these are public.
 
-![screen_1](https://github.com/juancarlosmiranda/gui_sound_detector/blob/master/img/screen_1.png?raw=true)
-
+![screen_1](https://github.com/juancarlosmiranda/gui_sound_detector/blob/main/img/screen_1.png?raw=true)
 
 
 
