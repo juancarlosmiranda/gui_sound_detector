@@ -1,4 +1,5 @@
-#README
+# README
+
 I made this software to detect jokes sent by friends in WhatsApp groups.
 Sometimes people would send WhatsApp audios to joke around, like moans for example.
 This app tries to classify moan sounds using the hmm algorithm, but the framework could be useful for other tasks.
@@ -14,7 +15,7 @@ The sound dataset used here was created from Whatsapp audios collected from grou
 git clone https://github.com/juancarlosmiranda/gui_sound_detector.git
 ```
 
-Requirements
+## Requirements
 * ffmpeg command -> Used to wav conversion '/usr/bin/ffmpeg'
 
 
